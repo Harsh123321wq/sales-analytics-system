@@ -1,0 +1,57 @@
+============================================
+SALES ANALYTICS REPORT
+Generated: 2024-12-31 10:30:00
+Records Processed: 70
+=====================
+
+## OVERALL SUMMARY
+
+Total Revenue:        ₹15,45,000.00
+Total Transactions:   70
+Average Order Value:  ₹22,071.43
+Date Range:           2024-12-01 to 2024-12-31
+
+## REGION-WISE PERFORMANCE
+
+Region    Sales Amount   % of Total   Transactions
+North     ₹4,50,000      29.13%       20
+South     ₹3,80,000      24.60%       18
+East      ₹3,20,000      20.71%       16
+West      ₹2,95,000      19.06%       16
+
+## TOP 5 PRODUCTS
+
+Rank  Product Name   Quantity Sold   Revenue
+1     Laptop         45              ₹22,50,000
+2     Mouse          38              ₹19,000
+3     Keyboard       32              ₹48,000
+4     Monitor        20              ₹3,00,000
+5     Webcam         12              ₹24,000
+
+## TOP 5 CUSTOMERS
+
+Rank  Customer ID   Total Spent   Orders
+1     C001          ₹95,000       3
+2     C005          ₹88,000       4
+3     C012          ₹76,500       2
+4     C009          ₹72,000       3
+5     C015          ₹68,000       2
+
+## DAILY SALES TREND
+
+Date         Revenue     Transactions   Unique Customers
+2024-12-01   ₹1,25,000   8              6
+2024-12-02   ₹1,40,000   9              7
+2024-12-15   ₹1,85,000   12             10
+
+## PRODUCT PERFORMANCE ANALYSIS
+
+Best Selling Day: 2024-12-15
+Low Performing Products: Webcam, Headphones
+Average Transaction Value per Region calculated successfully
+
+## API ENRICHMENT SUMMARY
+
+Total Products Enriched: 65
+Enrichment Success Rate: 92.8%
+Products Not Enriched: P999, P888
